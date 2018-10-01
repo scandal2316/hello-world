@@ -1,3 +1,6 @@
 # hello-world
 newb just trying to get into coding and software testing
-ok so first off i guess i edited my master file, seeing my mistake im now editing my my secandary branch file as directed by the hello-world github guide
+i just added a new branch to this repo
+i hope to learn more about the code reading with as much help from as many people as possible
+if youre are reading this feel free to commit as much as possible.
+
